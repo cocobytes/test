@@ -1,5 +1,7 @@
-[] Git
-[] Javascript
-[] Terminal
-[] Typescript
-[] Sass
+# Listas test
+
+1. Git
+2. Javascript
+3. Terminal
+4. Typescript
+5. Sass
