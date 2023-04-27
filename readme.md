@@ -2,3 +2,4 @@
 [] Javascript
 [] Terminal
 [] Typescript
+[] Sass
